@@ -5,7 +5,7 @@ from rag.vectorstore import VectorStore
 from rag.retriever import retrieve
 from eval.debug import print_results
 
-DATA_DIR = "data/documents"
+DATA_DIR = "data"
 
 def main():
     query = input("Enter your query: ")
