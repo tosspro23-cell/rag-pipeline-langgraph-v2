@@ -34,9 +34,9 @@ This project focuses on **solving the hard part**:
 > **“What context should the model see — and why?”**
 
 ### Explicit trade-offs:
-- ✅ Determinism over emergent behavior  
-- ✅ Observability over hidden prompt magic  
-- ✅ Retrieval correctness over conversational smoothness  
+- Determinism over emergent behavior  
+- Observability over hidden prompt magic  
+- Retrieval correctness over conversational smoothness  
 
 ---
 
@@ -202,5 +202,3 @@ This project demonstrates:
 
 ---
 
-**Author:** Ting Li  
-AI Systems · Agent Architecture · RAG Engineering
