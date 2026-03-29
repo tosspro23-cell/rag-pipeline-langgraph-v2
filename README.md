@@ -1,4 +1,4 @@
-# LangGraph Helper Agent – Heavy RAG Pipeline (v2.1)
+# Heavy RAG Pipeline (v2.1)
 
 > **Production-oriented Retrieval Pipeline for LangGraph & LangChain Documentation**  
 > Focused on **context quality, retrieval robustness, and evaluation**, not chatbot UX.
